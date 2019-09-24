@@ -1,0 +1,7 @@
+Extra Credit:		8/10
+
+Correct Output:		4/5  ("sixth" is not spelled "fourht")
+Consistent Style: 	2/2
+Optimal Efficiency:	2/2
+Good Comments:		0/1
+
